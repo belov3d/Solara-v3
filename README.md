@@ -6,3 +6,4 @@ Solara Executor for roblox
  To use you will need to open RobloxPlayerBeta, then attach once opened
 #
  It may glitch out a few times but you just need to keep trying
+#
